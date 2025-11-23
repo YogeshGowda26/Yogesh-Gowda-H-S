@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronics Engineer <br>Embedded Systems | VLSL
+Electronics Engineer <br>Embedded Systems | VLSI
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y_gowdru46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yogesh Gowda H S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshgowdahsvr46@gmail.com) 
